@@ -6,10 +6,10 @@
  <li>HTML<br><li>CSS<br><li>JAVA SCRIPT
  
  <br>
- For using it download the following pages:<br><li>index.html<br><li>index.js<br><li>style.css
+ <H1> For using it download the following pages:<br> </H1><br><li>index.html<br><li>index.js<br><li>style.css
  
- <br>
- For detailed knowledge visit my blog page::<br> 
+ <br><br><br>
+<H1> For detailed knowledge visit my blog page:<br> </H1>
 <a href="https://viruszzwarning.medium.com/"><li>VirusZzWarning</a>
  <br><br><H1>Follow my socials:</H1><br>
  
