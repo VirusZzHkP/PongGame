@@ -6,5 +6,5 @@
  <li>HTML<br><li>CSS<br><li>JAVA SCRIPT
  
  <br>
- For detailed knowledge visit my blog page: [VirusZzWarning](https://viruszzwarning.medium.com/)
+ For detailed knowledge visit my blog page: [VirusZzWarning] (https://viruszzwarning.medium.com/)
  
