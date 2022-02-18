@@ -6,6 +6,9 @@
  <li>HTML<br><li>CSS<br><li>JAVA SCRIPT
  
  <br>
+ For using it download the following pages:<br><li>index.html<br><li>index.js<br><li>style.css
+ 
+ <br>
  For detailed knowledge visit my blog page::<br> 
 <a href="https://viruszzwarning.medium.com/"><li>VirusZzWarning</a>
  <br><br><H1>Follow my socials:</H1><br>
