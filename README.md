@@ -5,3 +5,6 @@
  <H2>Required Knowledge</H2>
  <li>HTML<br><li>CSS<br><li>JAVA SCRIPT
  
+ <br>
+ For detailed knowledge visit my blog page: [VirusZzWarning](https://viruszzwarning.medium.com/)
+ 
