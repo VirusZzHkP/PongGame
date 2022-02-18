@@ -6,5 +6,9 @@
  <li>HTML<br><li>CSS<br><li>JAVA SCRIPT
  
  <br>
- For detailed knowledge visit my blog page: [VirusZzWarning] (https://viruszzwarning.medium.com/)
+ For detailed knowledge visit my blog page::<br> 
+<a href="https://viruszzwarning.medium.com/"><li>VirusZzWarning</a>
+Follow my socials:<br>
  
+<a href="https://twitter.com/hrisikesh_pal">Twitter</a>
+<a href="https://www.facebook.com/therealhrisikesh">FB Page</a>
