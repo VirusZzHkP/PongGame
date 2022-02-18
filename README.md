@@ -8,7 +8,11 @@
  <br>
  For detailed knowledge visit my blog page::<br> 
 <a href="https://viruszzwarning.medium.com/"><li>VirusZzWarning</a>
-Follow my socials:<br>
+ <br><br><H1>Follow my socials:</H1><br>
  
-<a href="https://twitter.com/hrisikesh_pal">Twitter</a>
+<a href="https://twitter.com/hrisikesh_pal">Twitter</a><br>
 <a href="https://www.facebook.com/therealhrisikesh">FB Page</a>
+ 
+ <br><br>
+ Cheers!!<br>
+ M@d3 With ♥ -- VirusZzHkP
